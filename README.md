@@ -3,7 +3,6 @@
 
 <img align="right" alt = "Coding" width = "400" src= "https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-sonkar&label=Profile%20views&color=016b79&style=flat-square" alt="harshita-sonkar" /> </p>
 
 - 🌱 Actively growing my skills in Machine Learning and Data Science
 
