@@ -12,7 +12,7 @@
 
 - 🍀 Actively seeking opportunities for internship in ML or DS
 
-- 📮Reach Out: harshu.sonkar@gmail.com
+- 📮Reach Out: harshitasonkar27@gmail.com
 
 - ⚡ Fun fact My Notion pages have to look perfect
 
